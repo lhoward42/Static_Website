@@ -137,7 +137,7 @@ ul{
     height: 100px;
     width: 225px; 
     margin: none;
-    background-image: url("../02-assets/sw_logo_stacked-336c62367939.png");
+    background-image: url("./02-assets/sw_logo_stacked-336c62367939.png");
     background-repeat: no-repeat;
 }
 .banner{
@@ -160,7 +160,7 @@ ul{
     margin-bottom: 8px;
 }
 .carousel{
-    background-image: url("../02-assets/young-sky.jpeg");
+    background-image: url("./02-assets/young-sky.jpeg");
     background-size: 100%;
     width: 100%;
     max-width: 100%;
@@ -206,7 +206,7 @@ p{
     margin: 10px 0 0 10px;
 }
 .secondImage{
-    background-image: linear-gradient(rgb(109,66,59,0),rgb(109,66,59,1)),url("../02-assets/ady-new-swcom-slide-mobile-_2_aba61103.jpeg");
+    background-image: linear-gradient(rgb(109,66,59,0),rgb(109,66,59,1)),url("./02-assets/ady-new-swcom-slide-mobile-_2_aba61103.jpeg");
     height: 600px;
     width: 960px;
     display: flex;
