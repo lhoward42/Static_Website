@@ -5,7 +5,7 @@
 }
 header{
     position: fixed;
-    background-image: url(./02-assets/starrySky.jpeg);
+    background-image: url("./02-assets/starrySky.jpeg");
     width: 100%;
     top: 0;
     left: 0px;
